@@ -1,4 +1,4 @@
 def foo():
-	return 40 + 2
+	return 41 + 1
 	
 print (foo())
